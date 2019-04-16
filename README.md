@@ -1,6 +1,6 @@
 # ADE
 
-### Project on which I learn C# and games development with Unity
+C# and development of games with Unity
 #### Gameplay:
 https://youtu.be/DxWRWu54s-4
 
